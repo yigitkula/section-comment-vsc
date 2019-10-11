@@ -4,6 +4,7 @@
 	"description": "ASCII Art Section Comment Extension for Visual Studio Code",
 	"version": "1.0.0",
 	"publisher":"yigitkula",
+	"repository": "https://github.com/yigitkula/section-comment-vsc",
 	"engines": {
 		"vscode": "^1.39.0"
 	},
