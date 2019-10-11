@@ -24,9 +24,8 @@ function helloWorld(params){
 ### INSTALLATION
 Download extension from [here](https://drive.google.com/file/d/1ml_1pFxHYPzyFKMwZ0DisB1Wvw_O1mnR/view?usp=sharing)
 
-
-To load an extension, you need to copy the files to your VS Code extensions folder .vscode/extensions. Depending on your platform, it is located in the following folders:
-
-- Windows `%USERPROFILE%\.vscode\extensions`
-- macOS `~/.vscode/extensions`
-- Linux `~/.vscode/extensions`
+Install the extension with command line:
+```
+cd {path_to_download_directory}
+code --install-extension section-comment-vsc-1.0.0.vsix
+```
